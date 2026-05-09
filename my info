@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+View Demo
+</a>
+</div>
+
+</div>
+</section>
+
+<section>
+<h2>Services & Pricing</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>Business Website</h3>
+<p>Professional modern website for businesses.</p>
+<p class="price">₹50000</p>
+</div>
+
+<div class="card">
+<h3>Delivery Time</h3>
+<p>2–3 Days</p>
+</div>
+
+<div class="card">
+<h3>Support</h3>
+<p>Free support after delivery.</p>
+</div>
+
+</div>
+</section>
+
+<section>
+<h2>Why Choose Me?</h2>
+
+<div class="card">
+<ul>
+<li>✔ Modern UI Design</li>
+<li>✔ Mobile Friendly</li>
+<li>✔ Fast Loading</li>
+<li>✔ Affordable Pricing</li>
+<li>✔ Student Friendly Service</li>
+</ul>
+</div>
+</section>
+
+<footer>
+<p>© 2026 Heartful Designs | Website Developer in Belagavi</p>
+</footer>
+
+</body>
+</html>
